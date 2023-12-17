@@ -1,11 +1,26 @@
 [
-    {
-        "title": "Clone New Challenge",
-        "complete": false
-    },
-    {
-        "title": "Eat Cheese",
-        "complete": false
-    }
-
+	{
+		"title": "Clone New Challenge",
+		"complete": false
+	},
+	{
+		"title": "Eat Cheese",
+		"complete": false
+	},
+	{
+		"title": "drink water",
+		"complete": true
+	},
+	{
+		"title": "run",
+		"complete": false
+	},
+	{
+		"title": "read a book",
+		"complete": false
+	},
+	{
+		"title": "workout",
+		"complete": true
+	}
 ]
