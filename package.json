@@ -5,9 +5,12 @@
   "main": "todos.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node todos"
+    "start": "node todos"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
 }

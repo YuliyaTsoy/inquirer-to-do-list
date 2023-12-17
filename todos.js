@@ -24,7 +24,15 @@ if (!todos) {
 // Delete
 
 const showOptions = ()=>{
-
+inquirer.prompt ({
+    type: "list",
+    message: "What would you like to do?",
+    name: "userChoice",
+    choices: ["add new to do", "quit"],
+})
+.then ((answers) => {
+    console.log (answers)
+})
 }
 
 const init = () => {
